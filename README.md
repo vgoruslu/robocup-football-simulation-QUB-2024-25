@@ -1,9 +1,12 @@
-James Young - 40296786
-Final Year Project
-
 # Football Simulator for Robocup Org 2D Soccer Sim
 
 The main team "DonnyDynamos" is based on a team "HELIOS-BASE" designedd by Hidehisa Akiyama and Tomoharu Nakashima. Full Details of their work can be found at https://github.com/helios-base/helios-base.
+
+## Development team and timeline
+Software Engineer in training: * James Young, Final Year CS student in QUB, UK
+Supervisor: * [Prof. Dr. Vahid Garousi](https://www.vgarousi.com), Professor of Software Engineering, Queen’s University Belfast, UK
+
+The project was completed during the academic-year 2024-25, as a final-year BSc project in Queen’s University Belfast.
 
 ## Project Installation
 
