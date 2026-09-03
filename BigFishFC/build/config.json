@@ -1,0 +1,14 @@
+{
+  "host": "localhost",
+  "port": 6000,
+  "teamname": "Big_Fish_FC",
+  "number_of_players": 11,
+  "use_coach": true,
+  "debug_options": {
+    "debug_enabled": false,
+    "debug_server_host": "localhost",
+    "debug_server_port": 6032
+  },
+  "offline_mode": false,
+  "formation_directory": "./formations-dt"
+}

@@ -1,0 +1,3 @@
+/home/james/BigFishFC/build/CMakeFiles/Simulator.dir
+/home/james/BigFishFC/build/CMakeFiles/edit_cache.dir
+/home/james/BigFishFC/build/CMakeFiles/rebuild_cache.dir
